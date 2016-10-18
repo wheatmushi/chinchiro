@@ -15,7 +15,7 @@ combinations (from the strongest to the weakest):
   for triple (2+2+2 to 6+6+6) => player wins 3 times (higher triple beat lower triple)
   4+5+6 => player wins 2 times
   for double [2+5+5 (means 2) or 4+1+1 (means 4)] => player wins 1 time
-   (higher double beat lower double)
+  (higher double beat lower double)
   1+2+3 => player pays twise
 if you throw nothing of above (nothing valuable) you still have 2 attempt
 after 3 unsuccessful rolls you loose your bet to dealer
