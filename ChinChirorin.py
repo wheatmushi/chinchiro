@@ -206,4 +206,4 @@ while (handler == 'g') and (result == 'd'):
 if result == 'w':
     print('You WIN')
 elif result == 'f':
-    print('Game over')
+    print('BWAHAHAHAHAAHHAHA\nGame over')
